@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/YashCharpe)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/yashxz)**
 
 - 📫 How to reach me **yashrcharpe07@gmail.com**
 
@@ -47,15 +47,15 @@
 
 <p align="center">
     <a >
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yash Charpe's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YashCharpe&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yash Charpe's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yashxz&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a ><img alt="Yash Charpe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YashCharpe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a><img alt="Yash Charpe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashCharpe&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a ><img alt="Yash Charpe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yashxz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a><img alt="Yash Charpe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashxz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -63,7 +63,7 @@
 <br/>
 <br/>
 
-<a><img alt="Yash Charpe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YashCharpe&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a><img alt="Yash Charpe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yashxz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -72,16 +72,16 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/yash-charpe/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/YashCharpe"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/yashxz"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
 
 <p align="center"> 
   Visitors Count<br>
-  <img src="https://profile-counter.glitch.me/YashCharpe/count.svg" />
+  <img src="https://profile-counter.glitch.me/yashxz/count.svg" />
 </p>
 
 <!---
-YashCharpe/YashCharpe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+yashxz/yashxz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
